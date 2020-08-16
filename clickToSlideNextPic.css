@@ -1,0 +1,68 @@
+/* body background color */
+body {
+  background-color: #68bdc9b4;
+  width: 390px;
+}
+
+/* horzontal ruler */
+hr {
+  border: 1px solid #4c5270;
+}
+
+h1,
+h2,
+h3,
+p,
+.thk {
+  font-family: dotum;
+  color: purple;
+  font-weight: bold;
+}
+
+h1 {
+  font-variant-caps: all-small-caps;
+}
+
+/* format for pictures */
+img {
+  height: 220px;
+  border: 2px solid purple;
+  border-radius: 50px;
+  margin-left: 40px;
+}
+
+/* format for button */
+button {
+  border: 1px solid purple;
+  color: white;
+  background-color: purple;
+  font-family: dotum;
+  font-variant-caps: all-small-caps;
+  margin-left: 140px;
+}
+
+/* heart and gratitude on same line */
+p {
+  display: inline-block;
+}
+
+/* define container for picture player
+.gallery {
+	border: 2px solid white;
+} */
+
+/* format the heart symbol */
+.icon {
+  font-size: 30px;
+  color: red;
+
+  padding: 6px;
+
+  background-position: 1px 10px;
+}
+
+.thk {
+  padding: 1px;
+  margin: 30px 7px 30 px 5px;
+  background-position: 4px 2px;
+}
